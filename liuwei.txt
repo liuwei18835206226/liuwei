@@ -1,15 +1,23 @@
 Liuwei is a handsome boy!
+<<<<<<< HEAD
 Liuwei is a handsome boy!
 
 liuwei01
+=======
+
+liuwei02
+>>>>>>> liuwei02
 
 Liuwei is a handsome boy!
 Liuwei is a handsome boy!
 Liuwei is a handsome boy!
+<<<<<<< HEAD
 Liuwei is a handsome boy!
 
 
 
+=======
+>>>>>>> liuwei02
 
 
 
